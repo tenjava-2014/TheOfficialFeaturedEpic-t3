@@ -1,0 +1,3 @@
+name: TheOfficialFeaturedEpic-t3
+main: com.tenjava.entries.TheOfficialFeaturedEpic.t3.TenJava
+version: '${project.version}'
